@@ -1,0 +1,166 @@
+
+body{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.text-modify{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Island Moments', cursive;
+    font-family: 'Lato', sans-serif;
+    font-size: 80px;
+    border-left: 5px solid #FF5677 ;
+    padding: 10px;
+    
+}
+.plate{
+    color:#FC9918;
+}
+.parent{
+    display: flex;
+    width: 100%;
+    margin: auto;
+}
+.left-side{
+    padding-left: 100px;
+    margin-top: 10%;
+}
+.photo img{
+    width: 50%;
+    padding-left: 150px;
+
+}
+.details-button{
+    padding: 15px 50px;
+    background-image: linear-gradient( 109.6deg,  rgba(231,76,60,1) 11.2%, rgba(203,67,53,1) 91.1% );
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+.second-section{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.photos img{
+    padding-top: 20px;
+    width: 60%;
+    padding-right:90px;
+    
+}
+.all-flyer{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 25px;
+} 
+
+.buttom-section{
+    padding: 15px;
+   
+}
+.dream {
+    display: flex;
+    width: 90%;
+    margin-top: 100px;
+
+}
+.develop{
+    padding-right: 0px;
+    margin-top: 3%; 
+    text-align: justify;
+    
+}
+.develop h2{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.development h2{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.coding img{
+    width: 60%;
+    padding-left: 30%;
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+}
+
+
+.dream photo img{
+    padding-left: 80px;
+    width: 50%;
+}
+
+
+.dreamline{
+        display: flex;
+        width: 100%;
+        margin-top: 100px;  
+        margin-bottom: 50px;
+}
+.development{
+    padding-left: 150px;
+    margin-top: 3%; 
+    text-align: justify;
+    width: 100%;
+    padding-bottom: 400px;
+    
+}
+  
+.dreamer img{
+    margin-top: 0%;
+    width:60%;
+    padding-left: 200px;
+    
+}
+
+.footer {
+    padding-top: 10px;
+    position:relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #1F1D36;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.footer p{
+    text-align: center;
+}
+
+.design{
+    color: #132743;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.white{
+    color: white;
+    
+}
+.another{
+    color:#FF5677;
+}
+
+.success{
+    
+    background-size: 100%;
+    width: 300px;
+    border: 1px solid gray;
+    box-shadow:4px 4px 12px ;
+    border-radius: 5%;
+    padding: auto;
+}
+
+.style{
+    padding-right: 200px;
+}
